@@ -409,4 +409,8 @@ footer a:hover{
         height: 8vh;
     }
     
+    .apps, .account{
+        width: 80vw;
+        overflow-x: scroll;
+    }
 }
